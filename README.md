@@ -1,26 +1,3 @@
 <h3>DEMO : https://cerdemrc.github.io/makeup/</h3>
-<h4>used Techs: Vue JS, Axios, Sass</h4>
+<h4><b>used Techs:</b> Vue JS, Axios, Sass</h4>
 
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
