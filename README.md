@@ -1,4 +1,6 @@
 # makeup
+https://cerdemrc.github.io/makeup/
+used Techs: Vue JS, Axios, Sass
 
 ## Project setup
 ```
