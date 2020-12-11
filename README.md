@@ -1,8 +1,6 @@
-# makeup
-<h1>DEMO : https://cerdemrc.github.io/makeup/</h1>
+<h3>DEMO : https://cerdemrc.github.io/makeup/</h3>
+<h4>used Techs: Vue JS, Axios, Sass</h4>
 
-
-used Techs: Vue JS, Axios, Sass
 
 ## Project setup
 ```
